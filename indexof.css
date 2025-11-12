@@ -95,8 +95,8 @@ body::-webkit-scrollbar-thumb{
     border-radius: 10px;
     overflow: hidden;
     transition:  height .2s ease;
-    bottom: 183em;
-    left: 30em;
+    bottom: 455vh;
+    left: 32em;
     transform: scale(0);
     transition: .5s ease;
     z-index: 1;
@@ -572,4 +572,5 @@ video{
 
 span{
     color: #000;
+
 }
